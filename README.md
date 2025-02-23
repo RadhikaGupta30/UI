@@ -1,4 +1,3 @@
-# UI
 🍽️ Restaurant Table Reservation UI – Figma Design
 This project is a modern, intuitive Table Reservation UI designed in Figma, aimed at enhancing the restaurant booking experience. It provides a seamless way for customers to select tables, choose time slots, and confirm their reservations effortlessly.
 
@@ -14,10 +13,12 @@ Figma – For UI/UX design
 Auto Layout – Ensuring responsive components
 Variants & Components – For reusable design elements
 Prototyping – Interactive user journey
+
 🚀 How to Use
 Open the Figma file (Add link here if shared publicly)
 Explore the UI screens and interactive prototype
 Customize elements as needed for your project
+
 📌 Future Enhancements
 Dark Mode UI
 Integration with real-time booking systems
